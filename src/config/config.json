@@ -1,0 +1,18 @@
+{
+  "development": {
+    "username": "cjfuqcxu",
+    "password": "4R4mlMU2rkUmnZ515N8LuKmlLbP_FFIY",
+    "database": "cjfuqcxu",
+    "host": "horton.elephantsql.com",
+    "port": 5432,
+    "dialect": "postgres"
+  },
+  "production": {
+    "username": "cjfuqcxu",
+    "password": "4R4mlMU2rkUmnZ515N8LuKmlLbP_FFIY",
+    "database": "cjfuqcxu",
+    "host": "horton.elephantsql.com",
+    "port": 5432,
+    "dialect": "postgres"
+  }
+} 
